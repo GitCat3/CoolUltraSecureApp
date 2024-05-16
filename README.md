@@ -1,1 +1,1 @@
-"# CoolUltraSecureApp" 
+# CoolUltraSecureApp
